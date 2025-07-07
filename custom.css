@@ -267,7 +267,7 @@
         width: 40px;
         height: 40px;
         cursor: pointer;
-        background: #fff url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/icon_menu_open.png);
+        background: #fff url(images/icon_menu_open.png);
         background-size: cover;
         display: none;
     }
@@ -289,7 +289,7 @@
         width: 40px;
         height: 40px;
         cursor: pointer;
-        background: #fff url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/icon_menu_close.png);
+        background: #fff url(images/icon_menu_close.png);
         background-size: cover;
         display: none;
     }
@@ -383,7 +383,7 @@
     /* 內容區塊「歡迎使用」 開始 */
     #s-lg-box-wrapper-26981109 #s-lg-box-23024578 {
         color: #fff;
-        background: #14b0bf url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/bg_01_a.png) 100% 100% no-repeat;
+        background: #14b0bf url(images/bg_01_a.png) 100% 100% no-repeat;
         background-size: cover;
         border: 2px solid #218d97;
     }
@@ -405,7 +405,7 @@
 
     @media (max-width: 600px) {
         #s-lg-box-wrapper-26981109 #s-lg-box-23024578 {
-            background: #14b0bf url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/bg_01_a.png) 0% 100% no-repeat;
+            background: #14b0bf url(images/bg_01_a.png) 0% 100% no-repeat;
         }
 
         #s-lg-box-wrapper-26981109 #s-lg-box-23024578 a {
@@ -461,19 +461,19 @@
     }
 
     .link_box>div:nth-child(1) {
-        background: #fff url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/icon_home.png) 50% 20px no-repeat;
+        background: #fff url(images/icon_home.png) 50% 20px no-repeat;
     }
 
     .link_box>div:nth-child(2) {
-        background: #fff url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/icon_sk.png) 50% 20px no-repeat;
+        background: #fff url(images/icon_sk.png) 50% 20px no-repeat;
     }
 
     .link_box>div:nth-child(3) {
-        background: #fff url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/icon_tv.png) 50% 20px no-repeat;
+        background: #fff url(images/icon_tv.png) 50% 20px no-repeat;
     }
 
     .link_box>div:nth-child(4) {
-        background: #fff url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/icon_book.png) 50% 20px no-repeat;
+        background: #fff url(images/icon_book.png) 50% 20px no-repeat;
     }
 
 
@@ -601,7 +601,7 @@
         background-position: center top;
         */
         /* 背景設定 結束 */
-        background: url(https://d329ms1y997xa5.cloudfront.net/customers/311/images/bg_02_a.jpg) 50% 50% no-repeat;
+        background: url(images/bg_02_a.jpg) 50% 50% no-repeat;
         background-size: cover;
     }
 
